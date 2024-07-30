@@ -1,13 +1,13 @@
 # Renamer
 
-This Unity package provides bulk renaming functionality for GameObjects in the scene view and assets in the project view.
+A clean and functional bulk renaming functionality for GameObjects in the scene view and assets in the project view.
 
 ![](Media/Renamer.png)
 
 ## Features
 - 7 operations
   - Replace base name
-  - Remove N characters from start, end or the middle
+  - Remove a number of characters from start, end or the middle
   - Change case to upper, lower or title
   - Search and replace a substring
   - Regex search and replace
