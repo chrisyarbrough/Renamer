@@ -1,7 +1,7 @@
 # Renamer
 A clean and functional bulk renaming utility for GameObjects in the scene view and assets in the project view.
 
-![](Media/Renamer.png)
+![](Media~/Renamer.png)
 
 ## Features
 - Rename operations:
@@ -18,7 +18,7 @@ A clean and functional bulk renaming utility for GameObjects in the scene view a
 - Operations are applied in order top to bottom and can be reordered via the operation context menu.
 - The preview panel shows a before and after for each name. It includes a basic git-like diff view.
 
-![](Media/RenamerMenu.png)
+![](Media~/RenamerMenu.png)
 
 ## Support
 Unity 2021.3 or newer.

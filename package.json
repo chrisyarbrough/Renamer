@@ -1,6 +1,6 @@
 {
   "name": "com.xarbrough.renamer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Renamer",
   "description": "A bulk rename utility for Unity's hierarchy and project view.",
   "unity": "2021.3",
